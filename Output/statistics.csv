@@ -1,0 +1,5 @@
+Metric,Normal mean,Achon mean,MW p-value,Welch p-value,Significant
+Cobb Angle (°),119.33,131.88,0.2636,0.4033,✗
+Mean Curvature,0.34,0.28,0.1850,0.2818,✗
+SIFT keypoints,176.78,423.66,0.0000,0.0000,✔
+ORB keypoints,111.11,393.78,0.0000,0.0000,✔
