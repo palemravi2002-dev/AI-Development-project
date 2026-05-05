@@ -1,4 +1,4 @@
-# Lumbar Spine Curvature Analysis Pipeline
+# Detection of Achondroplasia Condition in X-Ray images
 ### Normal vs. Achondroplasia — Automated Radiograph Analysis
 
 ---
